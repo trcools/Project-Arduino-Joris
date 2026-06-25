@@ -1,3 +1,3 @@
 # Documentation
 
-Here comes the documentation.
+Here comes the documentation!
