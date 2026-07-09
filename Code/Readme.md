@@ -1,5 +1,3 @@
 # Code
 
-Hier komt alle code.
-
-test
+This folder contains all code.
