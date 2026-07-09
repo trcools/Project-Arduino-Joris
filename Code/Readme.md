@@ -1,3 +1,3 @@
 # Code
 
-Hier komt alle code.
+This folder contains all code.
