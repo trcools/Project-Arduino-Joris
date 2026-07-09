@@ -2,10 +2,22 @@ Dit is een Arduino project van 2 bachelor studenten.
 
 ## Structuur
 
+```text
 .
-├── [Code/](Code) <br>
-│   ├── [Arduino/](Code/Arduino) <br>
-│   │   └── [Examples/](Code/Arduino/Examples) <br>
-│   └── [Model/](Code/Model) <br>
-└── [Documentation/](Documentation) <br>
-    └── [Components/](Documentation/Components)
+├── Code/
+│   ├── Arduino/
+│   │   └── Examples/
+│   └── Model/
+└── Documentation/
+    └── Components/
+```
+
+---
+Andere weergavee met links:
+
+* [Code](Code)
+  * [Arduino](Code/Arduino)
+    * [Examples](Code/Arduino/Examples)
+  * [Model](Code/Model)
+* [Documentation](Documentation)
+  * [Components](Documentation/Components)
