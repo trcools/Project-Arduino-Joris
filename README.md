@@ -1,4 +1,4 @@
-Dit is een Arduino project van 2 bachelor studenten. 
+Dit is een Arduino project van 2 bachelor studenten.
 
 ## Structuur
 
@@ -13,7 +13,8 @@ Dit is een Arduino project van 2 bachelor studenten.
 ```
 
 ---
-Andere weergavee met links:
+
+Andere weergave met links:
 
 * [Code](Code)
   * [Arduino](Code/Arduino)
