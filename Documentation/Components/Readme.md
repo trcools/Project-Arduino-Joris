@@ -1,6 +1,12 @@
 # Componenten-inventaris — Arduino/Elektronica Project
 
 ---
+## Nieuw aangekocht:
+- Arduino Nano esp32
+- Arduinoo Nano R4 (verjaardag Joris)
+- Adafruit LSM303AGR (3D accelerometer + magnetometer)
+
+---
 
 ## Gesalvagede HP Pavilion g6 laptop-onderdelen
 
